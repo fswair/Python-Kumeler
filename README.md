@@ -1,1 +1,1 @@
-# Sets-and-Math-fonksiyonlar--at-Python
+# Python Küme ve Matematik İşlemleri
